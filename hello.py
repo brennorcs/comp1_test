@@ -1,0 +1,1 @@
+print("Comp1 - Hello")
